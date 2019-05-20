@@ -1,0 +1,1 @@
+../../../../../WeexSDK/Sources/Bridge/WXJSCoreBridge.h

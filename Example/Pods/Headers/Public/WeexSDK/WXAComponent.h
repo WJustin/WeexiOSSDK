@@ -1,0 +1,1 @@
+../../../../../WeexSDK/Sources/Component/WXAComponent.h

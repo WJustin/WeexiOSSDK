@@ -611,7 +611,7 @@ WX_EXPORT_METHOD(@selector(resetLoadmore))
     if ([self.ref isEqualToString:WX_SDK_ROOT_REF] &&
         [self isKindOfClass:[WXScrollerComponent class]]) {
         if (instance.onScroll) {
-            instance.onScroll(scrollView.contentOffset);
+            instance.onScroll(scrollView.contentOffset, scrollView);
         }
     }
     

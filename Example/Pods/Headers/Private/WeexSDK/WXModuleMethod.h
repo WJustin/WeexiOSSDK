@@ -1,0 +1,1 @@
+../../../../../WeexSDK/Sources/Bridge/WXModuleMethod.h

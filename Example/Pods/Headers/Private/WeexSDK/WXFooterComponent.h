@@ -1,0 +1,1 @@
+../../../../../WeexSDK/Sources/Component/WXFooterComponent.h

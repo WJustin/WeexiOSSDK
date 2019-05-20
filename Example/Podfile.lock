@@ -1,0 +1,16 @@
+PODS:
+  - WeexSDK (0.19.0)
+
+DEPENDENCIES:
+  - WeexSDK (from `../`)
+
+EXTERNAL SOURCES:
+  WeexSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WeexSDK: 657c3e1a71fe3a002e3714b889644772c95d6bbf
+
+PODFILE CHECKSUM: 17028ef493f88cc15dc68eae525f1d1adb2dc912
+
+COCOAPODS: 1.5.3

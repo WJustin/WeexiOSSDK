@@ -1,0 +1,1 @@
+../../../../../WeexSDK/Sources/Utility/WXSimulatorShortcutManager.h

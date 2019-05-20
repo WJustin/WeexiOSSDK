@@ -1,0 +1,1 @@
+../../../../../WeexSDK/Sources/Manager/WXInvocationConfig.h

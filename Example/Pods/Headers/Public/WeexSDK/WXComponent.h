@@ -1,0 +1,1 @@
+../../../../../WeexSDK/Sources/Model/WXComponent.h
